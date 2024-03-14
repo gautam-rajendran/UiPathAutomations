@@ -1,0 +1,59 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "SubTotalQuantity&",
+        "TotalPurchaseAmt&"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [
+        "VATaxRate&"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ArrayDemo&Sequence_1",
+        "SubTotalQuantity&Sequence_2",
+        "TotalPurchaseAmt&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "VATaxRate&Sequence_2"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EnteringPurchaseAmount.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TotalPurchaseAmt&Sequence_2",
+        "strSubTotalQuantity&Sequence_1",
+        "SubTotalQuantity&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "VATaxRate&Sequence_2"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "CalculatingValueAddedTAx.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TotalPurchaseAmt&Sequence_2",
+        "VATQuantity&Sequence_1",
+        "SubTotalQuantity&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "VATaxRate&Sequence_2"
+      ],
+      "AddedNamespaces": null
+    }
+  ]
+}

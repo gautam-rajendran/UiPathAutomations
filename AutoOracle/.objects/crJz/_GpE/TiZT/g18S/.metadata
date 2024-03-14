@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Oracle Inventory",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Id": "g18SNyDCO0234770Gpit8Q",
+  "Reference": "uDI6E9qeqUWM1ORqxG3CSA/g18SNyDCO0234770Gpit8Q",
+  "ParentRef": "uDI6E9qeqUWM1ORqxG3CSA/TiZTdPv4oUiKsNFxP3OCxw",
+  "Created": "2024-02-22T05:37:41.1775437Z",
+  "Updated": "2024-02-22T05:37:41.1775437Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

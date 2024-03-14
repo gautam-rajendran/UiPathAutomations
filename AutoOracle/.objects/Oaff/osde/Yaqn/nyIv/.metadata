@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Subinventory",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "nyIv9Apvv0qgizbbCNMuFg",
+  "Reference": "uDI6E9qeqUWM1ORqxG3CSA/nyIv9Apvv0qgizbbCNMuFg",
+  "ParentRef": "uDI6E9qeqUWM1ORqxG3CSA/YaqnFMwVUkynHHKFOPwOeQ",
+  "Created": "2024-02-27T12:07:02.1109864Z",
+  "Updated": "2024-02-27T12:07:02.1109864Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

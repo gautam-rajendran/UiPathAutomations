@@ -1,0 +1,14 @@
+﻿{
+  "Name": "DoubleUI",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Id": "SM5r6PaGckKbHp1bTPjG9Q",
+  "Reference": "THcXH7OfzEmxVrQqk3fLWQ/SM5r6PaGckKbHp1bTPjG9Q",
+  "ParentRef": "THcXH7OfzEmxVrQqk3fLWQ/81JdJgQjhkyXcUC5fmwd9A",
+  "Created": "2024-03-11T09:51:39.033417Z",
+  "Updated": "2024-03-11T09:51:39.033417Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

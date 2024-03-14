@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PAJ7mIKM-0CE8Jsm7D5D_w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvType="InputBox" DesignTimeRectangle="608, 210, 16, 29" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'push button'" FullSelectorArgument="&lt;java name='Inter-organization Transfer (AW1)' role='internal frame' /&gt;&lt;java cls='PushButton' role='push button' /&gt;" FuzzySelectorArgument="&lt;java name='Inter-organization Transfer (AW1)' role='internal frame' /&gt;&lt;java cls='PushButton' role='push button' /&gt;" Guid="3f6cf90f-757c-410e-8d39-66a4173116a1" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABQAAAAhCAYAAADZPosTAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACJSURBVEhL7dBNCoAgEIDRuVOHtmt0hOgK0aJFbXI9McKIP4OoBS2axUcy5kOE/bT4ZjDNG1LSZk9gjEGK4dYyEI/RbzLeUoo6kFH+YVmvqvgiRVA6WEpBBf8NDgCu0pr6DqxNQQUVrEkEacggfaWDUnwuAsMhr1sKMQemg6f5G/aWgfRuT4pRizfdCCi+fCPMpwAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='jp2launcher.exe' cls='SunAwtFrame' title='Oracle Applications - PROD' /&gt;" SearchSteps="Selector, FuzzySelector, Image, CV" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="de7f14f8e70e6e75da4cba7c356ce929.png" xmlns="">0jL0d1YaiUEqY6kuQfyJ4Jg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

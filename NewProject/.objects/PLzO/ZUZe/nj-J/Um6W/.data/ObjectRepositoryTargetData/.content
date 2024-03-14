@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7pmUc86MLEO35YINgc5F_w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="41, 334, 307, 41" DesignTimeScaleFactor="1" ElementType="CheckBox" FriendlyName="'I accept'" FullSelectorArgument="&lt;java name='I accept the risk and want to run this application.' role='check box' /&gt;" FuzzySelectorArgument="&lt;java name='I accept the risk and want to run this application.' role='check box' check:fulltext='I accept the risk and want to run this application.' /&gt;" Guid="cbf40ee4-b43f-4431-b552-95e8b90f1da1" ScopeSelectorArgument="&lt;wnd app='jp2launcher.exe' cls='SunAwtDialog' title='Security Warning' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e0247b50468b7bdc6ff3ac4ca29620a4.png" xmlns="">0FqIkoGDqpkGuC7L2REYIZg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

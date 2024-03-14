@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge: Login",
+  "Type": "Screen",
+  "Id": "ARj-DCefPEKNT3awGpr40w",
+  "Reference": "zNVQpmEDjUGbFa6wya7OMw/ARj-DCefPEKNT3awGpr40w",
+  "ParentRef": "zNVQpmEDjUGbFa6wya7OMw/E2pYCzyN4kOlcy6z8Z6yTw",
+  "Created": "2024-02-28T05:07:54.6933774Z",
+  "Updated": "2024-02-28T05:07:54.6933774Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fXndbfdtjkyiIAbqW6P6GA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvType="InputBox" DesignTimeRectangle="396, 359, 57, 30" DesignTimeScaleFactor="1" ElementType="InputBox" FriendlyName="'text Operations:'" FullSelectorArgument="&lt;java name='Move Transactions (AMA)' role='internal frame' /&gt;&lt;java name='Operations: From Seq RequiredList of Values' role='text' /&gt;" FuzzySelectorArgument="&lt;java name='Move Transactions (AMA)' role='internal frame' /&gt;&lt;java name='Operations: From Seq RequiredList of Values' role='text' /&gt;" Guid="15e57311-2f05-4e81-ade1-714b783d433b" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAD0AAAAiCAYAAADs4tGnAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACbSURBVGhD7dOxDcIwFEVRb5V92CWzmDXoaLMERYrQkPqjVySKwYgGoeT5Fle/+HZxZDmN9zn20LXvIqVT5OlR3f+y3aD/WYG+DDfLtka1orXMOVv2Cn9Da8Z0tkmer+jaxaMHGjRor0CDBu0VaNCgvQINGrRXoEGD9go06JbRmrWLR02ej2i1HHBra1QFupXafmkt9acdK+FzPAHs79pkQA4/RAAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='jp2launcher.exe' cls='SunAwtFrame' title='Oracle Applications - PROD' /&gt;" SearchSteps="Selector, FuzzySelector, Image, CV" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5c6fa4ba0e96ef2f86ac5ff4a6199c50.png" xmlns="">0T3NkjkXOdUqQQSGtjB1qMA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

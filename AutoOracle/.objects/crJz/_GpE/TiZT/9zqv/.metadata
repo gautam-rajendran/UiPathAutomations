@@ -1,0 +1,14 @@
+﻿{
+  "Name": "IMG http://secure.focus…",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "9zqv7DCeAk66lxQQ91OAGA",
+  "Reference": "uDI6E9qeqUWM1ORqxG3CSA/9zqv7DCeAk66lxQQ91OAGA",
+  "ParentRef": "uDI6E9qeqUWM1ORqxG3CSA/TiZTdPv4oUiKsNFxP3OCxw",
+  "Created": "2024-02-22T05:37:09.9598076Z",
+  "Updated": "2024-02-22T05:37:09.9598076Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

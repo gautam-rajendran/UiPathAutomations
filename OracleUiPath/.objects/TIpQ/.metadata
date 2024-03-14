@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge: Login",
+  "Type": "App",
+  "Id": "TIpQZga-d0qoapsNyqT5Nw",
+  "Reference": "PHS6EXdVEUqhnzRSG1sqjA/TIpQZga-d0qoapsNyqT5Nw",
+  "Created": "2024-02-20T07:23:39.2975221Z",
+  "Updated": "2024-02-20T07:23:39.2975221Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

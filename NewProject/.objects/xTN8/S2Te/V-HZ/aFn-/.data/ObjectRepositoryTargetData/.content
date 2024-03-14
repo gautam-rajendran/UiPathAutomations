@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gRYpz5quQkq0qSYnXG6fDQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="970, 99, 16, 16" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'push button'" FullSelectorArgument="&lt;java name='Find System Profile Values' role='internal frame' /&gt;&lt;java cls='ToolBar' role='tool bar' /&gt;&lt;java idx='3' role='push button' /&gt;" FuzzySelectorArgument="&lt;java name='Find System Profile Values' role='internal frame' /&gt;&lt;java cls='ToolBar' role='tool bar' /&gt;&lt;java role='push button' /&gt;" Guid="757a9fe3-17c6-4165-bc30-2670022600aa" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAC+SURBVDhP7Yw7CgIxFEXdlqWbcE0uwNrOcsDCxkZQprGxGD8oCEEQhEEZGIwfRogkkHATLgNBsdHi8JKXnNPoTYT6FHkh1T8o1Ob8jALd7wRXp8rR7vt3tkOXBrO8Mmix2ZmaWbdDlwbnx4dDi63uwkyM4R90aXB2uHvYkI2F7+jSYLq/eYTB8B1dGhyLq8PG9MQz/kGXBkc7acBA3Q5dGhxuLw4t4p3t0KXBwbqMAl0aTJZlFOjS4Dv8ZFCqF2wLMUfcCszvAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='jp2launcher.exe' cls='SunAwtFrame' title='Oracle Applications - PROD' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1f63eb5647e591c714487937de9c72d3.png" xmlns="">0SHGhu5cGeECnCPJ4FDC8kg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

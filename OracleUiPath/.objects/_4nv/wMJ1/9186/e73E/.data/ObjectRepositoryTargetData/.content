@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SQa63Co7EkC8j02E2fvXFg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="http://secure.focusrtech.com:8040/OA_HTML/OA.jsp?OAFunc=OANEWHOMEPAGE#" CvTextArgument="Accounts Receivable Ash" CvType="Text" DesignTimeRectangle="30, 372, 172, 15" DesignTimeScaleFactor="1.25" ElementType="Text" FriendlyName="'Accounts Receivable Ash'" Guid="ff9d5f9e-1224-4eee-b50f-e87fba540cfa" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Home' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="390c6db8e04c36e83d6601a891fe2f4c.png" xmlns="">0e657y9wXQE-47x2lGmGnAg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

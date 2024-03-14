@@ -1,0 +1,14 @@
+﻿{
+  "Name": "CNC",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "mGTAjlFJP0-nARFdp312fQ",
+  "Reference": "zNVQpmEDjUGbFa6wya7OMw/mGTAjlFJP0-nARFdp312fQ",
+  "ParentRef": "zNVQpmEDjUGbFa6wya7OMw/V-HZGrRwxEqMpveoYxz-WQ",
+  "Created": "2024-02-28T06:41:09.4128882Z",
+  "Updated": "2024-02-28T06:41:09.4128882Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

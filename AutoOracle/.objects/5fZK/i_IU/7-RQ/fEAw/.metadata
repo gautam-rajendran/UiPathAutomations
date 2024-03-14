@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Transaction Lines alt r",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "fEAwXJGh0UGZaPXJ-VFCuw",
+  "Reference": "uDI6E9qeqUWM1ORqxG3CSA/fEAwXJGh0UGZaPXJ-VFCuw",
+  "ParentRef": "uDI6E9qeqUWM1ORqxG3CSA/7-RQjrIUtU2q373cu4HEsA",
+  "Created": "2024-02-26T07:41:28.238332Z",
+  "Updated": "2024-02-26T07:41:28.238332Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

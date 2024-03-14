@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="p3QE_WbptkKgDxI_ZiwbkQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvType="Icon" DesignTimeRectangle="106, 70, 26, 22" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Save'" FullSelectorArgument="&lt;java cls='ToolBar' idx='23' role='tool bar' /&gt;&lt;java name='Save' role='push button' /&gt;" FuzzySelectorArgument="&lt;java cls='ToolBar' role='tool bar' /&gt;&lt;java name='Save' role='push button' check:text='Save' /&gt;" Guid="4f64e8f8-624d-4c2e-811e-fc0761be4b87" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAB4AAAAaCAYAAACgoey0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAEgSURBVEhL7ZLNEcIgEIXpKT3RjBXk7CFVpANutmAJ3tc8ZDMbXGDBGXNQZ77JH+73HolbloXOwN3uDzqDv7jK7N2O9ryHLrFzjih4InrJca2ts2AWQ8RSmjcgn2fy3g8FMItjW0iFGFL8QgjdAUxira2UArTvCWASH9omuRRDOk1TPMa1W8jWN9AUH9pmYDCQjWVI/FebCZpiOShuc9pqCQfI1+JamwmqYu3d7udKgJ201dpMpip+ayuH873C/VpbUBQX22rI54a2oC7GQMh5MAfJj1K8nbfagqo4bjXLJblcBLO0BdV3DN4CaFIc07mlLWiKmeIOiGtrW2AWM4cAg21Bt5jZAyRpT1swLGYg5BDa8xIfi0f5QfHlutL3WekJdKoeA3+uUq8AAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='jp2launcher.exe' cls='SunAwtFrame' title='Oracle Applications - PROD' /&gt;" SearchSteps="Selector, FuzzySelector, Image, CV" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b44240028c22fa5534f0eac7688fa5e3.png" xmlns="">0TwRgE82Iwke836UyUMwk5g</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
